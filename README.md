@@ -1,7 +1,6 @@
 # Etaelith Yeoman Generator
 
-Etaelith Yeoman Generator
-This is a Yeoman [Yeoman](http://yeoman.io/) generator that provides a set of sub-generators to facilitate the configuration and creation of JavaScript/TypeScript projects.
+This is a [Yeoman](http://yeoman.io/) generator that provides a set of sub-generators to facilitate the configuration and creation of JavaScript/TypeScript projects.
 
 ## Available Sub-generators:
 
