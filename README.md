@@ -18,3 +18,6 @@ npm install -g generator-etaelith
 ```
 ### Usage
 To use one of the sub-generators, first navigate to your project's folder and then run the desired sub-generator using the yo command. For example, to create a new project with ESLint and Next.js, you can use:
+```bash
+yo etaelith:eslint-next
+``` 
